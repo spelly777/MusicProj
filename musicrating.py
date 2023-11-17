@@ -1,5 +1,5 @@
 
-print("Welcome to the mf music app: Myusik! \n")
+print("Welcome to the music app: Myusik! \n")
 
 
 genres = ["rock", "hip hop", "pop", "country", "jazz"]
